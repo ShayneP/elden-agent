@@ -1,2 +1,3 @@
 # elden-agent
-Elden Ring Agent
+
+Live agent for helping you play Elden Ring, giving tips, tricks, and controls while you play.
